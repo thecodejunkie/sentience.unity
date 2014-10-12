@@ -1,0 +1,3 @@
+[submodule "dependencies/sentience"]
+	path = dependencies/sentience
+	url = git@github.com:thecodejunkie/sentience.git
